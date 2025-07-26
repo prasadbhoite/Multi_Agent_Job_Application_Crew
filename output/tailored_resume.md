@@ -1,44 +1,53 @@
-Based on the job requirements and skills needed for full-stack engineers in today's market, I will now proceed to tailor Noah's resume to align with these criterion.
+Noah [Last Name]  
+São Paulo, SP, Brazil  
+[Phone Number] | [Email Address] | [LinkedIn Profile] | [GitHub Profile]  
 
-**Updated Resume:**
+---
+**Professional Summary**  
+Accomplished Software Engineering Leader with 18 years of experience in driving innovation within tech startups. Demonstrated expertise in managing remote and in-office teams, coupled with a passion for harnessing AI technologies to build scalable solutions. Possess strong analytical skills and a results-driven mindset, focused on navigating ambiguity and delivering high-impact projects.
 
-```
-**Professional Profile: Noah**
+---
+**Education**  
+- Master of Business Administration (MBA)  
+- Strong background in AI and Data Science  
 
-An accomplished Full Stack Engineer with over 2 years of experience in developing scalable web applications and a strong foundation in both front-end and back-end technologies. Proficient in building modern applications using JavaScript frameworks like React and Vue, alongside robust Python back-end development. Skilled in database management with SQL and NoSQL technologies, comfortable with RESTful API design, and actively engaged in collaborative software development environments using Git.
+---
+**Professional Experience**  
+**Founder**  
+**crewAI**  
+[Start Date] - Present  
+- Developed a unique framework for orchestrating role-playing and autonomous AI agents, fostering collaborative intelligence for complex problems.  
+- Proactively navigated project ambiguity, driving the inception and growth of the startup from concept to operational success.  
+- Conducted thorough market research to identify trends, competitive landscapes, and go-to-market strategies that successfully positioned the company within the industry.
 
-**Education:**
-- Bachelor’s Degree in Computer Science.
+**Software Engineer**  
+**Clearbit (Acquired by HubSpot)**  
+[Start Date] - [End Date]  
+- Collaborated in product management roles, contributing to the development of tools that leveraged advanced technologies in a competitive environment.  
+- Managed multiple projects utilizing a strategic approach, ensuring timely completion and alignment with organizational goals.  
+- Engaged in due diligence processes, performing extensive market analyses and financial evaluations to support investment decisions.
 
-**Technical Skills:**
-- **Front-End Technologies:** HTML, CSS, JavaScript, React, Vue, Angular.
-- **Back-End Technologies:** Python (Flask, Django), Node.js, Express.js.
-- **Databases:** PostgreSQL, MySQL, MongoDB.
-- **API Development:** Skilled in designing RESTful APIs and WebSocket integrations.
-- **Version Control:** Proficient in Git and GitHub for collaborative workflows.
-- **Cloud Platforms:** Familiarity with AWS and Google Cloud Platform for deployment.
-- **Containerization:** Experience with Docker for environment management.
-- **AI and Machine Learning:** Hands-on experience with large language models like OpenAI and frameworks like LangChain.
+---
+**Technical Skills**  
+- Programming Languages:  
+  - **Python**: Developed projects including crewAI with a focus on intelligent automation.  
+  - **Ruby on Rails**: Contributed to open-source projects with strong community engagement.  
+  - **Elixir**: Engaged in sustainable design initiatives within numerous repositories.  
 
-**Professional Experience:**
-**Full Stack Developer**, XYZ Company  
-[Month Year] – Present  
-- Designed and developed dynamic web applications using React for front-end and Python for back-end, improving user engagement by 30%.
-- Implemented scalable APIs and integrated third-party services, ensuring seamless functionality across applications.
-- Worked closely with cross-functional teams, communicating technical concepts to non-technical stakeholders effectively.
-- Developed a microservices architecture, allowing for independent deployment and management of services.
+---
+**Key Accomplishments**  
+- Led high-stakes tech initiatives that resulted in innovation and growth within the startup ecosystem, demonstrating a strong ability to capitalize on market opportunities.  
+- Built a significant portfolio of 72 GitHub repositories, with a total of 86 stars, reflecting community appreciation for technical contributions and leadership in engineering.  
+- Demonstrated thorough due diligence capabilities, including TAM/SAM/SOM analysis and pro-forma financial construction, directly leading to strategic business decisions.
 
-**Projects:**
-1. **AI Chatbot Application**: Developed an interactive chatbot using OpenAI’s API, integrating advanced functionalities like tool calling and retrieval-augmented generation.
-2. **Collaborative Task Management Tool**: A web-based application using React and Node.js for tracking project progress, enhancing team productivity.
-3. **E-commerce Platform**: Built a full-stack e-commerce platform with Python, React, and PostgreSQL, implementing secure payment methods and user management features.
+---
+**Core Competencies**  
+- Strong analytical and problem-solving abilities.  
+- Excellent organizational skills for effective project management.  
+- Interpersonal and communication skills that facilitate collaboration across teams.  
+- Expertise in Generative AI and Machine Learning, with ongoing commitment to staying abreast of industry trends.  
+- Ability to work inclusively within diverse teams and embrace varying perspectives to drive innovation.
 
-**Achievements:**
-- Contributed to a 40% reduction in software delivery timelines by introducing efficient coding practices and implementing CI/CD pipelines.
-- Recognized for exceptional teamwork skills and proactive problem-solving in high-pressure project scenarios.
-
-**Professional Attributes:**
-Noah combines deep technical expertise with a passion for innovation and a drive to continuously learn about emerging technologies in AI and development frameworks. An enthusiastic team player, committed to fostering collaborative atmospheres aimed at pushing the envelope of what is possible in software development.
-```
-
-This updated resume highlights Noah's relevant experience, skills, and projects, aligning well with the job requirements for a full-stack engineer role.
+---
+**Ideal Roles**  
+Seeking opportunities in leadership roles within technology-focused organizations that prioritize innovative approaches and strategic AI implementations, where my strengths in project execution, team collaboration, and market analysis can contribute to significant growth and development.

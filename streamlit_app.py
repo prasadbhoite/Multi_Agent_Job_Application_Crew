@@ -1,13 +1,12 @@
 ### ✅ 1. streamlit_app.py
-
-# --- streamlit_app.py ---
-# Fix for ChromaDB SQLite issue on Streamlit Cloud
-import sys
+# Handle SQLite for ChromaDB
 try:
-    import pysqlite3
-    sys.modules['sqlite3'] = pysqlite3
-except ImportError:
-    pass  # If pysqlite3 is not available, continue with default sqlite3
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except (ImportError, KeyError):
+    pass
+
 
 
 import streamlit as st
