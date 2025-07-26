@@ -1,0 +1,7 @@
+-e .
+streamlit
+crewai
+openai
+python-dotenv
+chromadb
+crewai-tools
