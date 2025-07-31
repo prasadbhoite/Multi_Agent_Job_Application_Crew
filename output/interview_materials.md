@@ -1,39 +1,31 @@
-### Potential Interview Questions for Noah
+1. **Educational Background**:
+   - Can you elaborate on how your M.S. in Data Science and Artificial Intelligence has contributed to your work as a Data Scientist?
+   - How has your M.P.H. in Epidemiology influenced your approach to data analytics in the healthcare sector?
 
-1. **Analytical Skills:**
-   - Can you provide an example of a complex problem you solved using your analytical skills? What was the outcome?
-   - How do you approach trend analysis and what tools or methodologies do you rely on?
+2. **Professional Experience**:
+   - Describe a specific project you managed at the Green Family Foundation NeighborhoodHELP that required cross-functional collaboration. What challenges did you face and how did you overcome them?
+   - In your role, how do you ensure that the health data insights you provide are actionable for stakeholders?
 
-2. **Startup Experience:**
-   - As a founder of crewAI, what were some of the most significant challenges you faced in the startup phase, and how did you overcome them?
-   - Can you share your experience in navigating ambiguity while driving projects forward in a startup environment?
+3. **Technical Skills**:
+   - With your extensive experience in SQL and Python, can you discuss a complex data manipulation task you encountered and how you solved it?
+   - How do you approach learning new programming languages or data visualization tools? Can you give an example of a time when you had to acquire a new technical skill quickly?
 
-3. **Venture Capital Experience:**
-   - What key factors do you consider when assessing business plans for startups in your previous venture capital experience?
-   - How do you evaluate the potential of a startup's market entry strategy?
+4. **Machine Learning and Data Analytics**:
+   - Can you share an example of a machine learning model you developed? What were the goals and outcomes of that project?
+   - How do you ensure the validity and reliability of your statistical analyses in projects?
 
-4. **Technical Skills in AI:**
-   - Can you discuss a project where you successfully applied Generative AI or machine learning? What were the challenges faced during that project?
-   - How do you stay updated on trends in AI and integrate new technologies into your work?
+5. **Data Visualization**:
+   - Discuss how you utilize data visualization tools like Tableau or PowerBI to present data insights to non-technical stakeholders. Can you provide an example?
+   - What challenges have you faced when visualizing complex data sets, and how did you address them?
 
-5. **Due Diligence Skills:**
-   - Describe your experience with market research and competitive market mapping. How have these skills contributed to your past projects?
-   - Can you explain the relevance of TAM/SAM/SOM analysis in your decision-making process?
+6. **Publications and Research**:
+   - You have published over 19 peer-reviewed articles. Can you discuss a particular publication that you are most proud of and its impact on public health?
+   - What is your approach to staying updated with the latest research and trends in data analytics and public health?
 
-6. **Project Management and Leadership:**
-   - How do you prioritize tasks and manage resources when leading a team through multiple projects?
-   - What strategies do you employ to foster collaboration and communication within your teams?
+7. **Mentorship and Community Involvement**:
+   - How do you approach mentorship for junior data analysts? Can you share an experience where your mentorship made a significant impact?
+   - Your involvement in community service is commendable. How do you balance your professional responsibilities with your commitment to community service?
 
-7. **Interpersonal and Communication Skills:**
-   - Can you provide an example of how your communication skills have positively impacted a project or team?
-   - How do you handle conflicts within a team, and what strategies do you use to promote a healthy working environment?
-
-8. **Future Goals and Aspirations:**
-   - Looking ahead, what specific areas of growth or innovation do you feel most excited to pursue in the tech industry?
-   - How do you envision applying your background in software engineering and AI to enhance organizational capabilities?
-
-### Discussion Topics
-- The impact of AI technologies on software development and how they can transform traditional practices.
-- Strategies for scaling a startup from inception to market leadership, including the role of innovative approaches.
-- The significance of effective leadership in managing diverse and remote teams in the tech industry.
-- The intersection of technology and business: how understanding market dynamics can drive successful product development.
+8. **Future Aspirations**:
+   - What are your career goals for the next five years in data science and public health?
+   - How do you foresee the role of data science evolving in public health, and what skills do you think are essential for future data scientists in this field?

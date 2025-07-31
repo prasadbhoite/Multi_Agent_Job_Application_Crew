@@ -1,53 +1,81 @@
-Noah [Last Name]  
-São Paulo, SP, Brazil  
-[Phone Number] | [Email Address] | [LinkedIn Profile] | [GitHub Profile]  
+Updated Resume for Prasad B. Bhoite:
+Contact Information:
+- Position: Lead Data Scientist
+- Institution: Herbert Wertheim College of Medicine, Florida International University
+- Location: Miami, FL, USA
+- Email: pbhoite@fiu.edu
+- Phone: (305) 348-9138
 
----
-**Professional Summary**  
-Accomplished Software Engineering Leader with 18 years of experience in driving innovation within tech startups. Demonstrated expertise in managing remote and in-office teams, coupled with a passion for harnessing AI technologies to build scalable solutions. Possess strong analytical skills and a results-driven mindset, focused on navigating ambiguity and delivering high-impact projects.
+Education:
+- M.S. in Data Science and Artificial Intelligence
+  Florida International University, Miami, FL (2022)
 
----
-**Education**  
-- Master of Business Administration (MBA)  
-- Strong background in AI and Data Science  
+- M.P.H. in Epidemiology
+  Florida International University, Miami, FL (2016)
 
----
-**Professional Experience**  
-**Founder**  
-**crewAI**  
-[Start Date] - Present  
-- Developed a unique framework for orchestrating role-playing and autonomous AI agents, fostering collaborative intelligence for complex problems.  
-- Proactively navigated project ambiguity, driving the inception and growth of the startup from concept to operational success.  
-- Conducted thorough market research to identify trends, competitive landscapes, and go-to-market strategies that successfully positioned the company within the industry.
+- M.B.A. in Healthcare Administration
+  Pune, India (2014)
 
-**Software Engineer**  
-**Clearbit (Acquired by HubSpot)**  
-[Start Date] - [End Date]  
-- Collaborated in product management roles, contributing to the development of tools that leveraged advanced technologies in a competitive environment.  
-- Managed multiple projects utilizing a strategic approach, ensuring timely completion and alignment with organizational goals.  
-- Engaged in due diligence processes, performing extensive market analyses and financial evaluations to support investment decisions.
+- B.H.M.S. in Bachelor of Homoeopathic Medicine and Surgery
+  Pune, India (2009)
 
----
-**Technical Skills**  
-- Programming Languages:  
-  - **Python**: Developed projects including crewAI with a focus on intelligent automation.  
-  - **Ruby on Rails**: Contributed to open-source projects with strong community engagement.  
-  - **Elixir**: Engaged in sustainable design initiatives within numerous repositories.  
+Professional Experience:
 
----
-**Key Accomplishments**  
-- Led high-stakes tech initiatives that resulted in innovation and growth within the startup ecosystem, demonstrating a strong ability to capitalize on market opportunities.  
-- Built a significant portfolio of 72 GitHub repositories, with a total of 86 stars, reflecting community appreciation for technical contributions and leadership in engineering.  
-- Demonstrated thorough due diligence capabilities, including TAM/SAM/SOM analysis and pro-forma financial construction, directly leading to strategic business decisions.
+Data Scientist
+Green Family Foundation NeighborhoodHELP, Herbert Wertheim College of Medicine, Florida International University (06/2016 - Present)
+- Lead data analytics projects, demonstrating strong skills in machine learning and statistical analysis.
+- Manage cross-functional project teams to deliver impactful health data insights to stakeholders.
+- Employ data querying languages such as SQL and scripting languages like Python for data manipulation and reporting.
+- Utilize data visualization tools to enhance stakeholder understanding of complex datasets.
 
----
-**Core Competencies**  
-- Strong analytical and problem-solving abilities.  
-- Excellent organizational skills for effective project management.  
-- Interpersonal and communication skills that facilitate collaboration across teams.  
-- Expertise in Generative AI and Machine Learning, with ongoing commitment to staying abreast of industry trends.  
-- Ability to work inclusively within diverse teams and embrace varying perspectives to drive innovation.
+Graduate Assistant
+Office of Analysis and Information Management, Florida International University (04/2015 - 06/2016)
+- Assisted in the analysis of public health data, employing statistical software and programming languages.
+- Contributed to the further development of data analytics methodologies for improved data interpretation.
 
----
-**Ideal Roles**  
-Seeking opportunities in leadership roles within technology-focused organizations that prioritize innovative approaches and strategic AI implementations, where my strengths in project execution, team collaboration, and market analysis can contribute to significant growth and development.
+Student Assistant
+Herbert Wertheim College of Medicine, Florida International University (10/2014 - 04/2015)
+- Supported data collection and management for various academic and research projects.
+
+Clinical Assistant
+‘PRAYAS’ NGO Amrita Clinic, Pune, India (05/2009 - 07/2014)
+- Gained practical experience in data management within health-focused community programs.
+
+Resident Roles
+Mankar Pediatric Hospital and Madhukar General Hospital, Pune, India (07/2008 - 12/2008)
+
+Skills and Tools:
+- Programming Languages: Python, R, SQL, Scala, HTML
+- Database Management: Microsoft SQL Server, PostgreSQL, MySQL, Oracle SQL Developer, MongoDB
+- Machine Learning and AI: Extensive experience with Python libraries (numpy, pandas, scikit-learn, TensorFlow) and R libraries (tidyverse, ggplot2)
+- Business Intelligence: Proficient in Microsoft PowerBI, Tableau, Qlik Sense
+- Statistical Tools: SAS, SPSS, STATA, ArcGIS
+- Cloud Services: Microsoft Azure, AWS
+- Version Control: Git, GitHub, Azure DevOps
+- Certifications: Azure AI Fundamentals, Data Scientist Associate, Data Engineer Associate, Azure Data Fundamentals
+
+Publications and Contributions:
+- Over 19 peer-reviewed journal articles focusing on health disparities, education, and community health interventions.
+- Active presenter at national conferences on community health analytics.
+
+Projects on GitHub:
+- HPS_PUF: Household Pulse Survey datasets and codebooks.
+- ChestX-ray_CAP5610: Healthcare access-related classification algorithms.
+- TimeSeriesAnalysis: Tools for analyzing time series data.
+- ArcGIS: Public health analytics GIS maps.
+
+Awards and Recognition:
+- 2023 Service Excellence Award from Herbert Wertheim College of Medicine.
+- Various best poster and presentation awards at national conferences.
+
+Professional Affiliations:
+- American Public Health Association (2016-present)
+- American Statistical Association (2022-present)
+- PyData Miami (2019-present)
+- R-Ladies Miami (2020-present)
+
+Commitment to Mentorship and Community Service:
+- Mentor for junior data analysts, fostering skill development in analytics.
+- Volunteer for local community initiatives, including holiday toy drives and environmental clean-up programs.
+
+Prasad Bhoite merges a robust background in data science with extensive public health experience, delivering impactful insights through data analytics and community engagement.

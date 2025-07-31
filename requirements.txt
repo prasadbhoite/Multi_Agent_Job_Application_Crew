@@ -6,3 +6,4 @@ python-dotenv
 chromadb
 crewai-tools
 pysqlite3-binary
+pymupdf
